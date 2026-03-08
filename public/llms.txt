@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות בשמים אונליין מובילה לגברים ונשים. מגוון ענק של בשמים איכוטיים במחירים משתלמים, משלוח מהיר לכל הארץ ושירות לקוחות מעולה. גלו את הריח המושלם עבורכם!
+
+### אודות
+https://example.com/about
+גלו את הסיפור מאחורי Feel by omer - חנות בשמים שמציבה את הלקוח במרכז. אנחנו מאמינים בחוויית קנייה נוחה, גמישה ומותאמת אישית לכל אחד ואחת. הכירו אותנו מקרוב!
+
+### גמישות
+https://example.com/flexibility
+גמישות מקסימלית בקניית בשמים! שנו, עדכנו או בטלו את ההזמנה שלכם בקלות. אנחנו מאמינים שאתם צריכים שליטה מלאה על הקנייה - ללא מחויבות, רק שביעות רצון.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלות על בשמים או ההזמנה? צוות Feel by omer כאן בשבילכם! צרו קשר עכשיו וקבלו מענה מהיר, מקצועי ואדיב. אנחנו זמינים לכל בקשה, שאלה או הצעה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Feel by omer
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Feel by omer
+
+### Category
+https://example.com/category/:slug
+מוצרים - Feel by omer
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
